@@ -1,7 +1,14 @@
-BODY{
-    background: aqua;
+BODY {
+	background: aqua;
 
-    h1{
-        font-size: 100px;
-    }
+	section {
+		width: 600px;
+		padding: 50px;
+		background: #fff;
+		margin: 100px auto;
+
+		h1 {
+			font-size: 40px;
+		}
+	}
 }

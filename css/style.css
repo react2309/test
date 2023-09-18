@@ -1,8 +1,14 @@
 BODY {
   background: aqua;
 }
-BODY h1 {
-  font-size: 100px;
+BODY section {
+  width: 600px;
+  padding: 50px;
+  background: #fff;
+  margin: 100px auto;
+}
+BODY section h1 {
+  font-size: 40px;
 }
 
 /*# sourceMappingURL=style.css.map */
