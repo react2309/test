@@ -1,5 +1,5 @@
 BODY {
-  background: aqua;
+  background: hotpink;
 }
 BODY section {
   width: 600px;
@@ -9,7 +9,7 @@ BODY section {
 }
 BODY section h1 {
   font-size: 40px;
-  color: aqua;
+  color: hotpink;
 }
 
 /*# sourceMappingURL=style.css.map */
